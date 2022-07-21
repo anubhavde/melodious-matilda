@@ -13,11 +13,6 @@ The Cornell Lab of Ornithology’s Center for Conservation Bioacoustics (CCB)’
 
 This project aims to identify a wide variety of bird vocalizations in soundscape recordings. Due to the complexity of the recordings, they contain weak labels. There might be anthropogenic sounds (e.g., airplane overflights) or other bird and non-bird (e.g., chipmunk) calls in the background, with a particular labeled bird species in the foreground.
 
+Read about [dataset](https://github.com/anubhavde/melodious-matilda/blob/main/dataset.md)
+
 ##### Part of [Kaggle Challenge](https://www.kaggle.com/competitions/birdsong-recognition)
-
-### **Dataset**
-
-Dataset can be downloaded by running following command in terminal in directory where this repository is saved:
-```console
-kaggle competitions download -c birdsong-recognition
-```
